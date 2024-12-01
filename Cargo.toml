@@ -3,7 +3,7 @@
 name = "sajuuk"
 version = "0.1.0"
 edition = "2021"
-description = "A Kubernetes-native plugin-based loadbalancer written in Rust with optional eBPF acceleration"
+description = "A modern, extensible loadbalancer written in Rust"
 authors = ["Rich Edelman <redelman@gmail.com>"]
 license = "Apache-2.0"
 repository = "https://github.com/redelman/sajuuk"
